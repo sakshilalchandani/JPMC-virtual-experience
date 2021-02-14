@@ -1,0 +1,2 @@
+1. ---> open 2 cmd, one as administrator(server.py) , and one normally(client.py).
+	 both should be in the same directory as that of downloaded files.
